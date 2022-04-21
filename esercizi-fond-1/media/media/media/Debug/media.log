@@ -1,0 +1,5 @@
+﻿  main.c
+  stat.c
+  Generazione del codice in corso...
+stat.obj : error LNK2005: _media già definito in main.obj
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\somme_2a2\media\media\Debug\media.exe : fatal error LNK1169: rilevato uno o più simboli definiti più volte

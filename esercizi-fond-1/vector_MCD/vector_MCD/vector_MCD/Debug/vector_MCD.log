@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\vector_MCD\vector_MCD\vector_MCD\main.c(30,29): warning C4047: '==': 'size_t' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\vector_MCD\vector_MCD\vector_MCD\main.c(44,12): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\vector_MCD\vector_MCD\vector_MCD\main.c(55,19): warning C4018: '>': errata corrispondenza tra signed e unsigned
+  vector_MCD.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\vector_MCD\vector_MCD\Debug\vector_MCD.exe

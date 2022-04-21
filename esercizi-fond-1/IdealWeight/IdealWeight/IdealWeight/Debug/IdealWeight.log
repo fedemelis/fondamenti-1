@@ -1,0 +1,3 @@
+﻿  weight.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\IdealWeight\IdealWeight\IdealWeight\weight.c(46): warning C4715: 'ideal_weight': non tutti i percorsi di controllo restituiscono un valore
+  IdealWeight.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\IdealWeight\IdealWeight\Debug\IdealWeight.exe

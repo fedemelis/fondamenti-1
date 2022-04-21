@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(8,26): warning C4047: '==': 'int' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(8,48): warning C4047: '==': 'int' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(39,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(46,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(56,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(63,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(70,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(80,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Cornice\main.c(87,25): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Cornice.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\cornice\Cornice\Debug\Cornice.exe

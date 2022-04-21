@@ -1,0 +1,5 @@
+﻿  rational.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\Rational\Rational\Rational\rational.c(28,29): warning C4047: '==': 'size_t' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\Rational\Rational\Rational\rational.c(42,12): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\Rational\Rational\Rational\rational.c(53,21): warning C4018: '>': errata corrispondenza tra signed e unsigned
+  Rational.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\Rational\Rational\Debug\Rational.exe

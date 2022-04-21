@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\esercizi inf\esMatrici - Copia\Project1\Project1\main.c(95): warning C4715: 'matrix_sum_inplace': non tutti i percorsi di controllo restituiscono un valore
+  Project1.vcxproj -> C:\Users\fedem\OneDrive\Desktop\esercizi inf\esMatrici - Copia\Project1\Debug\Project1.exe

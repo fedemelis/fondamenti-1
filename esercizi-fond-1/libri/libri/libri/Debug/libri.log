@@ -1,0 +1,17 @@
+﻿  libri.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(15,28): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(17,15): warning C4047: '!=': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(35,30): warning C4047: '=': 'unsigned int' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(38,30): warning C4047: '=': 'unsigned int' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(5): fatal error C1075: '{': non sono stati trovati token corrispondenti
+  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(15,28): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(17,15): warning C4047: '!=': 'int' differisce da 'char [2]' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(35,30): warning C4047: '=': 'unsigned int' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(38,30): warning C4047: '=': 'unsigned int' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\main.c(3,16): error C2143: errore di sintassi: ';' mancante prima di '{'
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\main.c(6,14): warning C4133: 'funzione': tipi non compatibili. Da 'FILE *' a 'const char *'
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\main.c(6,17): warning C4047: 'funzione': 'unsigned int *' differisce da 'int' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\main.c(6,16): warning C4024: 'read_libri': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\libri\libri\libri\libri.c(5): fatal error C1075: '{': non sono stati trovati token corrispondenti
+  Generazione del codice in corso...

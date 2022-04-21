@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\change_font\change_font\change_font\main.c(15,16): warning C4047: '==': 'int' differisce da 'char [1]' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\change_font\change_font\change_font\main.c(17,14): warning C4047: '=': 'char' differisce da 'char [1]' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\change_font\change_font\change_font\main.c(18,16): warning C4047: 'return': 'char *' differisce da 'char' nei livelli di riferimento indiretto
+  change_font.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\change_font\change_font\Debug\change_font.exe

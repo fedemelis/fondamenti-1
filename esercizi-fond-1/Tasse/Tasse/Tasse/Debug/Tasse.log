@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 1\esercizi inf\Tasse\Tasse\Tasse\main.c(7,24): warning C4047: '!=': 'unsigned int' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 1\esercizi inf\Tasse\Tasse\Tasse\main.c(30): warning C4715: 'irpef': non tutti i percorsi di controllo restituiscono un valore
+  Tasse.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\fondamenti di informatica 1\esercizi inf\Tasse\Tasse\Debug\Tasse.exe

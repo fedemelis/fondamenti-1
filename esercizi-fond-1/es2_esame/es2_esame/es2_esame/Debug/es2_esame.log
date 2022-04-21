@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\es2_esame\es2_esame\es2_esame\main.c(27,24): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\es2_esame\es2_esame\es2_esame\main.c(47): warning C4715: 'find_first_partition': non tutti i percorsi di controllo restituiscono un valore
+  es2_esame.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\es2_esame\es2_esame\Debug\es2_esame.exe

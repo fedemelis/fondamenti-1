@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\CodificaMorse\CodificaMorse\CodificaMorse\main.c(240,27): warning C4047: '=': 'char *' differisce da 'size_t' nei livelli di riferimento indiretto
+  CodificaMorse.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\esercizi inf\CodificaMorse\CodificaMorse\Debug\CodificaMorse.exe
